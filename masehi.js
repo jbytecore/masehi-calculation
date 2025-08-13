@@ -39,7 +39,7 @@ function convertGregorianToHijri() {
         console.log(`Tanggal Masehi: ${formattedGregorian}`);
         console.log(`Tanggal Hijriah: ${formattedHijri}\n`);
 
-        console.log(`Copyright © 2025 Software Engineering. All Rights Reserved.`)
+        console.log(`Copyright © 2025 Daffa Jaya Perkasa. All Rights Reserved.`)
 
     } catch (error) {
         console.error("Terjadi kesalahan saat mengonversi tanggal:", error.message);
